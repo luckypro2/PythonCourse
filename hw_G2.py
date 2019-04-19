@@ -1,4 +1,4 @@
-#Fermat's little theorem states that if p is a prime number, then for any integer a, the number ap − a is an integer multiple of p.
+#Fermat's little theorem states that if p is a prime number, then for any integer a, the number a**p − a is an integer multiple of p.
 
 def primes(end):
     for p in range(2, end):
